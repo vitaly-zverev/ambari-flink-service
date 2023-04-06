@@ -43,13 +43,13 @@
   
   <property>
     <name>flink_jobmanager_memory</name>
-    <value>768</value>
+    <value>2048</value>
     <description>Memory for JobManager Container [in MB]. Must be at least 768</description>
   </property> 
       
   <property>
     <name>flink_container_memory</name>
-    <value>1024</value>
+    <value>2048</value>
     <description>Memory per TaskManager Container [in MB]</description>
   </property> 
         
